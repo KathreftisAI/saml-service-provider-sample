@@ -8,4 +8,4 @@ These are the current samples in the collection
 * [Sending and receiving messages using HTTP Redirect](opensaml-http-redirect)
 * [Sending and receiving messages using HTTP Post](opensaml-http-post)
 * [OpenSAML 4 signing and signature verification](opensaml-signing-and-verification)
-# navy-saml-service-provider-sample
+# saml-service-provider-sample
